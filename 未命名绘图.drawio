@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T09:02:04.219Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="zXdXyYcJz3L1z5NpwuQ-" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T02:49:43.010Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="0Mw7MNFFFD5IMi1QxBsT" version="24.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="309" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="131" dy="1109" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="uSnK2BkHSAxb0Llej-xE-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="903" y="486" width="1065" height="669" as="geometry" />
+        </mxCell>
         <mxCell id="uSnK2BkHSAxb0Llej-xE-5" value="«interface»&lt;br&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Menlo; color: rgb(28, 70, 74); background-color: rgb(255, 255, 255); text-align: start;&quot; class=&quot;p1&quot;&gt;Interface&lt;/p&gt;" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="916" y="585" width="111" height="50" as="geometry" />
         </mxCell>
@@ -34,7 +37,7 @@
         <mxCell id="uSnK2BkHSAxb0Llej-xE-21" value="«interface»&lt;br&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Menlo; color: rgb(28, 70, 74); background-color: rgb(255, 255, 255); text-align: start;&quot; class=&quot;p1&quot;&gt;Manipulatable&lt;/p&gt;" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1773" y="585" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uSnK2BkHSAxb0Llej-xE-22" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;white-space: nowrap;&quot;&gt;VideoItemExtraInfoController&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;white-space: nowrap; text-decoration-line: underline;&quot;&gt;+ handle()&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;white-space: nowrap; text-decoration-line: underline;&quot;&gt;+ modelDidUpdate()&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uSnK2BkHSAxb0Llej-xE-22" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;white-space: nowrap;&quot;&gt;VideoItemExtraInfoController&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;white-space: nowrap; text-decoration-line: underline;&quot;&gt;+ handle()&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;white-space: nowrap; text-decoration-line: underline;&quot;&gt;+ modelDidUpdate()&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;showNdbView()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;hideNdbView()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1476" y="712" width="415" height="137" as="geometry" />
         </mxCell>
         <mxCell id="uSnK2BkHSAxb0Llej-xE-23" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uSnK2BkHSAxb0Llej-xE-22" target="uSnK2BkHSAxb0Llej-xE-19">
@@ -56,26 +59,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uSnK2BkHSAxb0Llej-xE-26" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Menlo; color: rgb(28, 70, 74); background-color: rgb(255, 255, 255); text-align: start;&quot; class=&quot;p1&quot;&gt;VFBaseSectionController&lt;/p&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1280" y="932" width="293" height="52" as="geometry" />
+          <mxGeometry x="1280" y="915" width="293" height="52" as="geometry" />
         </mxCell>
         <mxCell id="uSnK2BkHSAxb0Llej-xE-30" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uSnK2BkHSAxb0Llej-xE-31" target="uSnK2BkHSAxb0Llej-xE-26">
           <mxGeometry x="-0.0075" width="160" relative="1" as="geometry">
-            <mxPoint x="1072" y="1029" as="sourcePoint" />
-            <mxPoint x="1232" y="1029" as="targetPoint" />
+            <mxPoint x="1072" y="1012" as="sourcePoint" />
+            <mxPoint x="1232" y="1012" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uSnK2BkHSAxb0Llej-xE-31" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: 400; font-stretch: normal; line-height: normal; font-family: Menlo; color: rgb(11, 79, 121); background-color: rgb(255, 255, 255); text-align: start;&quot; class=&quot;p1&quot;&gt;VideoItemExtraInfoSectionController&lt;/p&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1183" y="1068" width="487" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="uSnK2BkHSAxb0Llej-xE-32" value="+ model:&amp;nbsp;&lt;span style=&quot;background-color: initial; text-decoration-line: underline; white-space: nowrap;&quot;&gt;NoteDynamicBarModel&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="uSnK2BkHSAxb0Llej-xE-31">
-          <mxGeometry y="26" width="487" height="26" as="geometry" />
+          <mxGeometry x="1183" y="1051" width="487" height="34" as="geometry" />
         </mxCell>
         <mxCell id="uSnK2BkHSAxb0Llej-xE-33" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="uSnK2BkHSAxb0Llej-xE-31">
-          <mxGeometry y="52" width="487" height="8" as="geometry" />
+          <mxGeometry y="26" width="487" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="uSnK2BkHSAxb0Llej-xE-34" value="+&amp;nbsp;bindVideoExtInfoWidgetData&lt;span style=&quot;white-space: nowrap; text-decoration-line: underline;&quot;&gt;(model: NoteDynamicBarModel)&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="uSnK2BkHSAxb0Llej-xE-31">
-          <mxGeometry y="60" width="487" height="26" as="geometry" />
+        <mxCell id="uSnK2BkHSAxb0Llej-xE-38" value="视频拓展信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1339" y="523" width="150" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
